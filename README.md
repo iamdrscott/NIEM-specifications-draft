@@ -8,4 +8,6 @@ This is a dummy repo to illustrate one way of organizing the existing NIEM relea
 
 ## Model
 
+* [NIEM 5.1](releases/model-5.1/README.md)
 * [NIEM 5.0](releases/model-5.0)
+
